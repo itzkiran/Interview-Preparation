@@ -1,0 +1,43 @@
+Writing software
+
+Google Engineers own either entire software projects or some good chunk of a project. With such ownership comes various responsibilities: writing code+tests, setting up monitoring, managing releases and deployment, thinking of future enhancements, doing bug fixes, answering questions on internal forums (or maybe even external ones depending on project), communicating with other engineering teams in order to understand and align vision / roadmaps etc.
+
+Quite naturally, this occupies around 80% of the day, since its the core job requirement. Mostly, engineers leverage a lot of the internal libraries, frameworks and platforms to accomplish their goals. We do use third party libraries if required, but this depends a lot on the team and project.
+
+Note: Personally, I do feel a little bit out of touch with engineering outside Google given my immersion into Google software, but nevertheless, there is a lot to explore within.
+
+Effective design + documentation
+
+Engineering is about good documentation too. Google engineers spend around 20% of every development cycle understanding requirements and writing design documents, which cover important architectural decisions made and owned by the engineer. Equally importantly, this documentation serves as a reference point for others (including Nooglers) to understand the system.
+
+Doing this is no easy task. To be able to solve a problem is probably hard, but to be able to justify the solution as the best one given the constraints is even harder. Engineers spend time gaining a solid understanding of various infrastructure pieces at Google, that are each a beautiful world in themselves.
+
+Note: I used to find it hard to write design documents when I started off, since there are so many issues to consider while writing a good document. But, going through these issues makes us deliberate even further and make good engineering decisions. To this extent, I believe writing good documentation is mandatory and not an optional exercise.
+
+Code reviews
+
+Google’s high standard of code comes from a rigorous code review process that is both nimble and thorough. Engineers who have qualified as code reviewers probably spend around 10% of their day reviewing others’ code and adding constructive comments on how they can improve code structure/style, and address business issues better.
+
+Some folks are extremely active code reviewers, and may spend up to 30–40% of some of their days, even to help out those who are from different time-zones (such as EU / NA etc.).
+
+Note: I believe that crediting good code is easier than dissecting a bad one. Proofs of correctness and incorrectness are often asymmetric. Writing good code reviews is about understanding this asymmetry.
+
+Mentoring
+
+Sharing is caring. And AFAIK, all Googlers care about sharing their knowledge with others, because this fosters an environment of innovation and growth. Google provides various avenues for such knowledge sharing.
+
+When I joined Google, I got my “buddy”, who guided me on how to step through the various learning exercises so as to quickly get up to speed. This was immensely important for my growth in the company. These days, I spend around 10–20% of my week helping out others on various projects, even those I do not own or am part of. It’s fun, and it gives us a great sense of satisfaction.
+
+Note: I have always enjoyed teaching right from my days at NITK to those at UPenn, where I was a teaching assistant for algorithms and distributed systems. So this section may be biased, but I do sense the overwhelming tendency of all Googlers to help out wherever I go.
+
+Fun coding
+
+Engineering problems present themselves in a top-down manner, and you are expected to come up with theorems, laws, principles, conjectures, POCs and whatever else it takes to elegantly solve these problems.
+
+Our education system allows us to build our foundations from the bottom-up. One way for us (computer folks) to blend these two complementary approaches is to engage in programming outside work at avenues such as online judges and hackathons.
+
+Google engineers I know actively participate in competitive programming and internal discussions on interview problems. This is not only fun, but also important for us to nurture the sharp thinking process that got us into Google in the first place.
+
+Note: I spend at least 60% of my weekends and 15% of my week after office hours on online judges and other interesting problem solving websites. It has become a hobby, but once in a while, I find this knowledge helping me with my design and coding decisions.
+
+Epilogue
